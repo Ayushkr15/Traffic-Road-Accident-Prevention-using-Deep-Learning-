@@ -8,7 +8,7 @@ The increasing number of automobiles on the road has increased the number of roa
 Drowsy driving significantly increases the risk of car accidents. Microsleeps are when a person dozes off for just a few seconds5, and when they occur while driving, it’s easy for the car to run off the road or collide with another vehicle. The damage from these crashes increases when they occur at high speeds.  
   
   
-In this project, I have created a system that can track your eye movement and if you fall asleep then it will give you a warning without sound. This can prevent the accident  
+In this project, I have created a system that can track your eye movement and if you fall asleep then it will give you a warning with sound. This can prevent the accident  
   
 ---  
   
